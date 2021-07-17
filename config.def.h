@@ -196,7 +196,7 @@ unsigned int defaultcs = 256;
 unsigned int defaultrcs = 257;
 
 #if VIM_BROWSE_PATCH
-unsigned int const currentBg = 6, buffSize = 2048;
+unsigned int const currentBg = 4, buffSize = 2048;
 /// Enable double / triple click yanking / selection of word / line.
 int const mouseYank = 1, mouseSelect = 0;
 /// [Vim Browse] Colors for search results currently on screen.
